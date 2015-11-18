@@ -1,0 +1,89 @@
+#header {
+    border-radius: 5px;
+    border: 2px solid #6495ED;
+    background-color: lightblue;
+    height: 7em;
+    width: 80em;
+    margin-left: 40px;
+    /*text-align: center; */
+    display: inline-Block;
+}
+
+.header {
+    font-family: Arial;
+    font-size: 30px;
+
+    margin: 20px;
+    padding:40px; /* Marge par rapport au contenu et la bordure de l'élément */
+    /* text-decoration: none ;*/
+
+}
+
+
+#footer {
+    border-radius: 0px;
+    border: 2px solid #6495ED;
+    background-color: #BCD2EE;
+    height: 3em;
+    width: 60em;
+    margin: 20px 0px 20px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none ;
+}
+
+p {
+    font-family: Verdana;
+}
+
+.supp {
+    height: 20px ;
+    width: 120px ;
+    border-color: #6495ED ;
+    background-color: #BCD2EE;
+    border-style: dashed;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto ;
+    text-align: center;
+    text-decoration: none ;
+    display: inline-flex;
+}
+
+.updt {
+    height: 20px ;
+    width: 120px ;
+    border-color: #6495ED ;
+    background-color: lightgreen;
+    border-style: dashed;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    text-decoration: none ;
+    display: inline-flex;
+}
+
+a {
+    text-decoration: none ;
+}
+
+#linkTD {
+    margin-left: 20px ;
+    background-color: burlywood;
+    height: 40px ;
+    width: 160px ;
+    border-style: dashed;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: antiquewhite;
+    display: inline-block;
+}
+
+.TD {
+    font-size:  30px;
+}
+
+#list {
+    display: none ;
+}
